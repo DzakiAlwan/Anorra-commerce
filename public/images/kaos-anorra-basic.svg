@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Kaos Anorra Basic">
+  <rect width="800" height="1000" fill="#f4f4f5" />
+  <path d="M280 180 340 140h120l60 40 130 90-70 120-70-40v410H290V350l-70 40-70-120z" fill="#d4d4d8" />
+  <path d="M340 140c0 50 120 50 120 0" fill="none" stroke="#a1a1aa" stroke-width="18" />
+  <text x="400" y="900" text-anchor="middle" font-family="sans-serif" font-size="36" fill="#71717a">ANORRA</text>
+</svg>
